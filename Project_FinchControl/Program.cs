@@ -140,6 +140,7 @@ namespace Project_FinchControl
                 //
                 // get user menu choice
                 //
+
                 Console.WriteLine("\ta) Set Sensors to Monitor");
                 Console.WriteLine("\tb) Set Range Type");
                 Console.WriteLine("\tc) Set Maximum/Minimum Threshold Value");
